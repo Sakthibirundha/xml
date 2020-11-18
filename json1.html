@@ -1,0 +1,37 @@
+1)
+<!DOCTYPE html>
+<html>
+<link href="style.css" rel="stylesheet"></link>
+<body>
+
+        <center><h1 style="color:black">PRACTICE QUIZ</h1></center>
+   
+<ul style="background-color:midnightblue">
+
+<li><a href="index.html">HOME</a></li>
+ <li><a href="studycard.html">STUDY CARD</a></li>
+ <li><a href="create.html">TAKE QUIZ</a></li>
+</ul>
+<style>
+body {
+  background-image: url('image2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+</style>
+
+
+<h2 style = "color:#009900; font-size:50px;
+                font-style:italic; text-align:center;">json-stringify</h2><p id="demo"></p>
+<script>
+var obj = [{ question: “1. What is the full form of the RAM?”, answers: “Random Access Memory”},
+{ question: “2. What is the Brain of a Computer?”, answers: “CPU”},
+{ question: “ 3. Who is the prime minister of India? ”, answers: “Narendra Modi”},
+];
+var myJSON = JSON.stringify(obj);
+document.getElementById("demo").innerHTML = myJSON;
+</script>
+</body>
+</html>
