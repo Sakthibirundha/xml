@@ -1,0 +1,43 @@
+<QUIZ>
+<multiplechoicequestion>
+<question1>What is the full form of the RAM?</question1>
+
+<answer>
+<optionA>Random answer memory</optionA>
+<optionB>Random aces memory</optionB>
+<optionC>Random Access memory</optionC>
+<optionD>Random another memory</optionD>
+<id>Answer is B</id>
+<Textbutton>Hide answer</Textbutton>
+<Textbutton>Show answer</Textbutton>
+</answer>
+</multiplechoicequestion>
+<multiplechoicequestion>
+<question2>What is the Brain of a Computer?</question2>
+
+<answer>
+<optionA>ALU</optionA>
+<optionB>CU</optionB>
+<optionC>CPU</optionC>
+<optionD>RAM</optionD>
+<id>Answer is C</id>
+<Textbutton>Hide answer</Textbutton>
+<Textbutton>Show answer</Textbutton>
+</answer>
+</multiplechoicequestion>
+ 
+<multiplechoicequestion>
+<question3> Who is the prime minister of India</question3>
+
+<answer>
+<optionA>Narendra Modi</optionA>
+<optionB>Ramnath Konvid</optionB>
+<optionC>Amit Shah</optionC>
+<optionD>) Manmohan Singh </optionD>
+<id>Answer is A</id>
+<Textbutton>Hide answer</Textbutton>
+<Textbutton>Show answer</Textbutton>
+</answer>
+</multiplechoicequestion>
+ 
+</QUIZ>

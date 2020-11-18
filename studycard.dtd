@@ -1,0 +1,22 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT studycard (title,card+)>
+<!ATTLIST studycard
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT card (description)>
+<!ATTLIST card
+  xmlns CDATA #FIXED ''
+  title CDATA #REQUIRED>
+
+<!ELEMENT description (#PCDATA)>
+<!ATTLIST description
+  xmlns CDATA #FIXED ''
+  xmlns:xlink CDATA #FIXED 'http://www.w3.org/1999/xlink'
+  xlink:href CDATA #REQUIRED
+  xlink:show NMTOKEN #REQUIRED
+  xlink:type NMTOKEN #REQUIRED>

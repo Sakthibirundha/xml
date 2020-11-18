@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<studycard  xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>DOWNLOAD SYLLABUS WHICH YOU PREFER! </title>
+
+<card title="TNPSC GROUP4 SYLLABUS">
+  <description
+  xlink:type="simple"
+  xlink:href="http://www.tnpsc.gov.in/syllabus/new_syllabus_group_IV_services_updated.pdf"
+  xlink:show="new">
+  Click here to download
+  </description>
+</card>
+<card title="TNPSC GROUP1 SYLLABUS">
+  <description
+  xlink:type="simple"
+  xlink:href="http://www.tnpsc.gov.in/syllabus/new_syllabus_combined_civil_services_I_upated.pdf"
+  xlink:show="new">
+  Click here to download
+  </description>
+</card>
+<card title="TNPSC GORUP3 SYLLABUS 2020 ">
+  <description
+  xlink:type="simple"
+  xlink:href="http://www.gate.iitg.ac.in/Syllabi/CS_Computer-Science-and-Information-Technology.pdf"
+  xlink:show="new">
+  Click here to download
+  </description>
+</card>
+
+
+</studycard>

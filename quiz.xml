@@ -1,0 +1,35 @@
+<?xml version = "1.0"?>  
+<?xml-stylesheet type = "text/xsl" href = "quiz.xsl"?> 
+ 
+
+<class> 
+  
+   <quiz>  
+      <topic>TECH APTI</topic>   
+      <subtopic>PROGRAMMING LANGUAGE </subtopic>   
+      <module>JAVA</module>   
+      
+   </quiz>   
+   <quiz> 
+      <topic>TECH APTI</topic>   
+      <subtopic>PROGRAMMING LANGUAGE</subtopic>   
+      <module>PYTHON</module>   
+       
+   </quiz>   
+   <quiz>   
+      <topic>GENERAL APTI</topic>   
+      <subtopic>MATAMETICS</subtopic>   
+      <module>SPEED AND DISTANCE</module>
+   </quiz>   
+   <quiz>   
+      <topic>GENERAL APTI</topic>   
+      <subtopic>ENGLISH</subtopic>   
+      <module>VERBAL ANALYSIS</module>
+   </quiz> 
+<quiz>   
+      <topic>GENERAL APTI</topic>   
+      <subtopic>PUZZLES</subtopic>   
+      <module>LOGICAL REASONING</module>
+   </quiz>      
+ 
+</class>  

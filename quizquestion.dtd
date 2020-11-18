@@ -1,0 +1,55 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT QUIZ (multiplechoicequestion)+>
+<!ATTLIST QUIZ
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT multiplechoicequestion ((question1|question2|question3),
+                                  answer)>
+<!ATTLIST multiplechoicequestion
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT question1 (#PCDATA)>
+<!ATTLIST question1
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT question2 (#PCDATA)>
+<!ATTLIST question2
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT question3 (#PCDATA)>
+<!ATTLIST question3
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT answer (optionA,optionB,optionC,optionD,(id|id_q3dots),
+                  Textbutton+)>
+<!ATTLIST answer
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT optionA (#PCDATA)>
+<!ATTLIST optionA
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT optionB (#PCDATA)>
+<!ATTLIST optionB
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT optionC (#PCDATA)>
+<!ATTLIST optionC
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT optionD (#PCDATA)>
+<!ATTLIST optionD
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT id (#PCDATA)>
+<!ATTLIST id
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT id_q3dots (#PCDATA)>
+<!ATTLIST id_q3dots
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Textbutton (#PCDATA)>
+<!ATTLIST Textbutton
+  xmlns CDATA #FIXED ''>
