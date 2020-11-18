@@ -11,22 +11,6 @@
  <li><a href="studycard.html">STUDY CARD</a></li>
  <li><a href="create.html">TAKE QUIZ</a></li>
 </ul>
-<style>
-	body {
-	  background-image: url('image2.jpg');
-	  background-repeat: no-repeat;
-	  background-attachment: fixed;
-	  background-size: cover;
-	  
-	}
-	</style>
-
-
-	
-	
-	
-	
-	
 	<h2 style = "color:#009900; font-size:50px;
 	                font-style:italic; text-align:center;">json</h2>
 	
