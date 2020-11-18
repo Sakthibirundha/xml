@@ -13,13 +13,7 @@
  <li><a href="create.html">TAKE QUIZ</a></li>
 </ul>
 <style>
-body {
-  background-image: url('image2.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  
-}
+
 </style>
 
 
